@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/movieopolis/static/css/main.e619810f.css",
-    "main.js": "/movieopolis/static/js/main.775de4c1.js",
+    "main.js": "/movieopolis/static/js/main.49ebb683.js",
     "index.html": "/movieopolis/index.html",
     "main.e619810f.css.map": "/movieopolis/static/css/main.e619810f.css.map",
-    "main.775de4c1.js.map": "/movieopolis/static/js/main.775de4c1.js.map"
+    "main.49ebb683.js.map": "/movieopolis/static/js/main.49ebb683.js.map"
   },
   "entrypoints": [
     "static/css/main.e619810f.css",
-    "static/js/main.775de4c1.js"
+    "static/js/main.49ebb683.js"
   ]
 }
