@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movieopolis/static/css/main.e619810f.css",
+    "main.js": "/movieopolis/static/js/main.9fd8a8b2.js",
+    "index.html": "/movieopolis/index.html",
+    "main.e619810f.css.map": "/movieopolis/static/css/main.e619810f.css.map",
+    "main.9fd8a8b2.js.map": "/movieopolis/static/js/main.9fd8a8b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e619810f.css",
+    "static/js/main.9fd8a8b2.js"
+  ]
+}
