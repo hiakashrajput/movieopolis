@@ -1,0 +1,28 @@
+.header {
+  margin: 0 2.5rem;
+  padding: 1rem;
+}
+.header .menu {
+  align-items: center;
+  display: flex;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+.header .menu .menu-item {
+  text-decoration: none;
+  margin: 0 30px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  color: white;
+  align-self: center;
+}
+.header .menu .menu-item:hover {
+  color: grey;
+  scale: 0.98;
+}
+.header .menu .menu-logo {
+  text-decoration: none;
+  color: yellow;
+  font-weight: 800;
+  font-size: 2rem;
+}/*# sourceMappingURL=Header.css.map */
